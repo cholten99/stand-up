@@ -1,6 +1,6 @@
 <map version="0.9.0">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1307893731166" ID="ID_1141333481" MODIFIED="1307896519874" TEXT="Stand Up Use Cases By Page">
+<node CREATED="1307893731166" ID="ID_1141333481" MODIFIED="1307902845966" TEXT="Stand Up Use Cases By Page">
 <node CREATED="1307893851893" ID="ID_1410257363" MODIFIED="1307896505556" POSITION="left" TEXT="Full constituency info">
 <node CREATED="1307893865716" ID="ID_1938218486" MODIFIED="1307893899814">
 <richcontent TYPE="NODE"><html>
@@ -15,8 +15,7 @@
       effecting constituency
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1307893969484" ID="ID_1242834714" MODIFIED="1307897252859" POSITION="right" TEXT="Splash page (explanation video, skip it cookied in)"/>
@@ -43,8 +42,7 @@
       highest votes) for all constituencies
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1307896199695" ID="ID_827945526" MODIFIED="1307896208762" POSITION="left" TEXT="Error Page"/>
@@ -60,5 +58,8 @@
 <node CREATED="1307896521207" ID="ID_798417364" MODIFIED="1307896532317" POSITION="right" TEXT="Handle users that aren&apos;t logged in">
 <cloud/>
 </node>
+<node CREATED="1307902856483" ID="ID_971984940" MODIFIED="1307902871924" POSITION="right" TEXT="Forum for discussion about site"/>
+<node CREATED="1307902873720" ID="ID_547640926" MODIFIED="1307902884547" POSITION="right" TEXT="Help"/>
+<node CREATED="1307902886311" ID="ID_863794552" MODIFIED="1307902897490" POSITION="right" TEXT="Ts and Cs / Privacy Statement"/>
 </node>
 </map>
